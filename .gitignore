@@ -1,15 +1,11 @@
 # Custom ignored folders
-/Assets/FlatKit/
-/Assets/HintsStarsLite/
-/Assets/Layer Lab/
-/Assets/LowPolyInterior/
-/Assets/nappin/
-/Assets/Plugins/
-/Assets/Packages/
-/Assets/TextMesh Pro/
-/Assets/Recordings/
+ST/Assets/Packages/
+ST/Assets/Plugins/
+/ST/Recordings/
 ST/Library/ArtifactDB
-Builds
+ST/Builds/
+ST/MemoryCaptures/
+ST/Library
 
 # Custom ignored files
 *.utmp
@@ -17,20 +13,13 @@ Builds
 *.aar
 *.dbg.so
 
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Uu]ser[Ss]ettings/
-
-# MemoryCaptures can get excessive in size.
-# They also could contain extremely sensitive data
-/[Mm]emoryCaptures/
-
-# Recordings can get excessive in size
-/[Rr]ecordings/
+ST/[Ll]ibrary/
+ST/[Tt]emp/
+ST/[Oo]bj/
+ST/[Bb]uild/
+ST/[Bb]uilds/
+ST/[Ll]ogs/
+ST/[Uu]ser[Ss]ettings/
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # /[Aa]ssets/AssetStoreTools*
