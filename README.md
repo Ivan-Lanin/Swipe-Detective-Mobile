@@ -1,4 +1,3 @@
-
 # Short description
 
 A casual puzzle game with tycoon-inspired progression. Players run a crime-catching department, gathering evidence through mini-games and narrowing down suspects by their traits to find the criminal. By upgrading rooms and expanding the department, new mechanics unlock, while random events and daily bonuses keep investigations dynamic and rewarding.
@@ -13,24 +12,27 @@ A casual puzzle game with tycoon-inspired progression. Players run a crime-catch
 - **Suspect Sorting Mechanics** – Implemented as the main interactive loop based on identifying and sorting suspects.
 
 - **Interrogation mechanics** – Cross-examine informants to create a partly incorrect composite sketches, leading to the reconstruction of a correct one. In addition, periodically using a lie detector for hidden features.
-    
-    ![Interrogation.png](Interrogation.png)
-    ![LieDetector.gif](LieDetector.gif)
+<p align="center">
+    <img src="Interrogation.png" alt="Interrogation.png" style="width:40%;" /> 
+    <img src="LieDetector.gif" alt="LieDetector.gif" style="width:40%;" />
+</p>
 
 
 
 - **Department level -** management system with smooth controls and camera transitions.
-    
-    ![DepartmentLevel.png](DepartmentLevel.png)
-    
+<p align="center">
+    <img src="DepartmentLevel.png" alt="DepartmentLevel.png" style="width:40%;" />
+</p>
+
 - **Procedural Suspect Generation** – Randomized suspects with 4 feature types, unique names, and collectible attributes.
-    
-    ![SortingTutorial.png](SortingTutorial.png)
-    
+<p align="center">
+<img src="SortingTutorial.png" alt="SortingTutorial.png" style="width:40%;" />
+</p>
 - **Unlockable Rooms & Upgrades** – Progression system with animations, SFX, VFX, and meaningful gameplay impact.
-    
-    ![Unlock.gif](Unlock.gif)
-    
+<p align="center">
+<img src="Unlock.gif" alt="Unlock.gif" style="width:40%;" />
+</p>
+
 - **Prison Room Display** – Visual showcase of player progress with dynamically wandering captured criminals. With all the distinguishing features preserved.
 - **Random Event Generator** – Lightweight system for injecting simple unpredictable gameplay events. Such as an attempted robbery in a random location near the department.
 
