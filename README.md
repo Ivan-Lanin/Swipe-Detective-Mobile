@@ -1,10 +1,10 @@
 
-# Swipe Detective
-![Thumbnail.jpg](Thumbnail.jpg)
-
 # Short description
 
 A casual puzzle game with tycoon-inspired progression. Players run a crime-catching department, gathering evidence through mini-games and narrowing down suspects by their traits to find the criminal. By upgrading rooms and expanding the department, new mechanics unlock, while random events and daily bonuses keep investigations dynamic and rewarding.
+
+# YouTube Gameplay Video
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/CB7L_htz970/0.jpg)](http://www.youtube.com/watch?v=CB7L_htz970 "Swipe Detective Gameplay")
 
 # Feature list
 

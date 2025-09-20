@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22876707eef6ac54daf63f2ecbef442a, type: 3}
+  m_Name: TutorialTextENG
+  m_EditorClassIdentifier: 
+  welcomeTextFirst: Welkome to the Swipe Detective!
+  welcomeTextSecond: Let's solve our first case!
+  sortingTextFirst: You have 16 suspects. There is only one bad guy. Let's figure
+    it out.
+  sortingTextSecond: Press GO and follow the clues.
+  sortingHairLengthText: First, let's sort the suspects by hair length.
+  sortingHairColorText: Great job! Now, let's sort the suspects by hair color.
+  sortingEyeColorText: Only 4 of them left! Now, let's sort the suspects by eye color.
+  sortingExtraText: Now, let's sort the suspects by extra features.
+  prisonersCountText: "Nice work, detective! Let\u2019s see what happens when three
+    more criminals are put in jail."
+  sendPrisonersTextFirst: You did a great job! Let's get them to court and get paid.
+  sendPrisonersTextSecond: Looks like catching bad guys pays! Catch 4 more and we
+    can improve the department.
+  buildEmeraldRoomTextFirst: You've collected gold! Now let's expand our department.
+    Press build!
+  buildEmeraldRoomTextSecond: Wow! Evidence room level one. Let's see what stolen
+    items we can confiscate from the suspects!
+  emeraldInASortingTextFirst: Looks like he's hiding something behind his back. See,
+    over his shoulder? Let's see what's there.
+  emeraldInASortingTextSecond: I thought so. This is one of the emeralds stolen from
+    us before your arrival! Click on the emerald to collect it.
